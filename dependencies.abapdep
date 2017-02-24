@@ -1,0 +1,9 @@
+{
+  [
+    {
+      name : 'dep_1'
+      package_name : 'zdep_1'
+      git_url: 'https://github.com/JonnyMK/abap_dm_test_req.git'
+    }
+  ]
+}
